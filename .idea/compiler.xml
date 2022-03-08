@@ -2,7 +2,49 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
       <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Comment_some_lines.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Comment_syntax.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Correctly_written_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Forms_of_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Hello,_Kotlin.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Incorrect_comment.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-The_countdown.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comments-Unused_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Comparing_sums.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-How_to_declare_a_function.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Parameters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Return_type.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Right_equation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-The_square_of_a_number.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-The_sum_of_three_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Declaring_functions-What_should_be_specified_.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Comment_some_lines.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Comment_syntax.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Correctly_written_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Forms_of_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Hello,_Kotlin.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Incorrect_comments.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-The_countdown.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Uncomment_a_line.main" target="11" />
+      <module name="Number_Base_Converter.Topics__1_-Comments-Unused_comments.main" target="11" />
       <module name="Number_Base_Converter.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
