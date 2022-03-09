@@ -1,8 +1,8 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: "No"
 - text: "Yes"
+- text: "No"
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

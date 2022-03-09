@@ -41,6 +41,14 @@
       <module name="Number_Base_Converter.Topics-Equality-The_same_object.main" target="11" />
       <module name="Number_Base_Converter.Topics-Equality-Theory.main" target="11" />
       <module name="Number_Base_Converter.Topics-Equality-True_captain.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Between_two_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Check_the_value.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Check_the_value__1_.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-How_to_create_a_range.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Job.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Within_a_range.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Ranges-Within_both_ranges.main" target="11" />
       <module name="Number_Base_Converter.Topics__1_-Comments-Comment_some_lines.main" target="11" />
       <module name="Number_Base_Converter.Topics__1_-Comments-Comment_syntax.main" target="11" />
       <module name="Number_Base_Converter.Topics__1_-Comments-Correctly_written_comments.main" target="11" />
